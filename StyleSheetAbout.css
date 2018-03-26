@@ -1,0 +1,28 @@
+body {
+	font-family: verdana,sans-serif;
+	background-color: teal ;
+}
+
+.bar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li.bar a {
+	display: block;
+	text-decoration: none;
+	margin: auto;
+	border-collapse: collapse;
+	text-align: center;
+	padding: 10pt 20pt
+}
+
+.bar {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+	width: 150px;
+}

@@ -1,0 +1,63 @@
+body {
+	font-family: verdana,sans-serif;
+	background-color: teal ;
+}	
+
+.bar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li.bar a {
+	display: block;
+	text-decoration: none;
+	margin: auto;
+	border-collapse: collapse;
+	text-align: center;
+	padding: 10pt 20pt
+}
+
+
+.bar li a:hover {
+	display: block;
+    color: darkblue;
+    padding: 30px 20px;
+    text-decoration: none;
+    background-color: black;
+}
+
+
+.bar {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+	width: 250px;
+}
+
+.a {
+	text-align: right;
+}
+
+
+.guide{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li.guide a{
+	border: 1px solid black;
+	display: block;
+	padding: 10pt 20pt;
+	text-decoration: none;
+	text-align: center;
+}
+
+img{
+    max-width: 50%;
+    height: auto;
+}
